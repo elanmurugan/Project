@@ -27,7 +27,7 @@ public class Sample {
 			
 		}
 		
-		
+		System.out.println(a.get(0));
 		
 		
 	}
