@@ -21,14 +21,13 @@ public class Sample {
 			}
 			else {
 				
-				System.out.println("odd number");
-				System.out.println("odd number");
+				
 
 			}
 			
 		}
 		
-		
+		System.out.println(a.get(0));
 		
 		
 	}
