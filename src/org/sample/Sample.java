@@ -21,7 +21,7 @@ public class Sample {
 			}
 			else {
 				
-				System.out.println("odd number");
+				
 
 			}
 			
